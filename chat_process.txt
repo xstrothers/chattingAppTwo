@@ -1,0 +1,16 @@
+
+
+1.) Install homebrew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+2.) Install node
+brew install node
+
+3.) Start up node server
+node /Users/[Path To Project]/Node/chat-server.js
+
+4.) Run the app, login with an e-mail.
+
+5.) Run the app on a different simulator, login with a different e-mail.
+
+6.) The two apps should be able to send text to each other.
